@@ -1,1 +1,1 @@
-# fintechdemo
+# Fintech Repository
